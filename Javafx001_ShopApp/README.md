@@ -1,4 +1,6 @@
-# ShopApp desarrollada con JavaFX  y SceneBuilder
+# Javafx001_ShopApp
+
+App desarrollada con JavaFX  y SceneBuilder
 
 Al principio aparece una ventana de login.
 Si el usuario y contraseña introducida son correctos abrira dos ventanas.
