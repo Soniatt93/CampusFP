@@ -1,4 +1,4 @@
-# Django
+# Django con Boostrap
 Creando un servidor mediante Django con Bootstrap
 
 $ python /path/to/tarea/manage.py runserver
