@@ -1,3 +1,3 @@
 # Desarrollo  de Interfaces
 
-Practicas y projectos de clase
+Practicas y proyectos de clase
