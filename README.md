@@ -1,3 +1,3 @@
 # DlloInterfaces
 
-Aplicaciones de Desarrollo de Interfaces
+Aplicaciones con diferentes tecnologias usadas en Desarrollo de Interfaces
