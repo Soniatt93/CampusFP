@@ -12,6 +12,13 @@ La <strong>pagina de producto</strong> tiene un boton "Volver" que te retorna al
 La informacion que muestra es: la imagen, el tipo de dispositivo (al hacer click retorna al catalogo), la descripcion, botones agrupados tanto del acabado (color) como de la capacidad y el precio de dicho producto.
 Al hacer click en uno de los botones agrupados del acabado se accede al producto seleccionado con dicho color con sus caracteristicas. Los botones agrupados de capacidad no tiene funcionalidad, cambian en funcion del producto seleccionado.
 
+<strong>Home</strong>
+<img src="https://github.com/Soniatt93/DlloInterfaces/blob/master/Django003_EcommerceApp/Pantallas/Home.gif" width="1000" height="500" />
+
+
+<strong>Catalogo de producto</strong>
+<img src="https://github.com/Soniatt93/DlloInterfaces/blob/master/Django003_EcommerceApp/Pantallas/MacCatalogo.gif" width="1000" height="500" />
+
 
 <strong>Detalles de producto</strong>
 <img src="https://github.com/Soniatt93/DlloInterfaces/blob/master/Django003_EcommerceApp/Pantallas/MacDetalles.gif" width="1000" height="500" />
