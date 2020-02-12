@@ -1,6 +1,7 @@
 # EcommerceApp
 
-python manage.py runserver
+python manage.py runserve
+
 http://localhost:8000/
 
 Funcionalidades de navegación:
