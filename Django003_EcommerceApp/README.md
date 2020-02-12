@@ -1,5 +1,8 @@
 # EcommerceApp
 
+python manage.py runserver
+http://localhost:8000/
+
 Funcionalidades de navegación:
 * Tiene una <strong>barra de navegacion</strong> para poder acceder a la pagina home haciendo click en el logo y a los diferentes catalogos filtrados por el tipo de dispositivo (iPhone, iPad o Mac). Además aparecen una serie de iconos (buscar, login, favoritos y carrito) aun sin funcionalidad.
 * Tiene un <strong>footer</strong> con el logo para poder acceder a la pagina home y enlaces a los catalogos iphone, ipad y mac. También se puede acceder a la pagina de contacto haciendo click en "Contacto" y a las redes sociales haciendo click en los iconos de cada una de ellas (las redes sociales se abren en pestañas diferentes).
